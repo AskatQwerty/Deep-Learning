@@ -9,6 +9,7 @@ I am learning how different neural network architectures work, how to train them
 | Week | Topic | Dataset |
 |---|---|---|
 | 01 | MLP and Activation Functions | MNIST |
+| 02 | MLP and Activation Functions experiments| MOONS |
 | 02 | Convolutional Neural Networks | CIFAR-10 |
 | 03 | Regularization and Optimization | MNIST / CIFAR-10 |
 | 04 | Transfer Learning | To be selected |
